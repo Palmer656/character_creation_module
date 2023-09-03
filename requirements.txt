@@ -1,0 +1,10 @@
+asciimatics==1.14.0
+future==0.18.3
+mypy==1.5.1
+mypy-extensions==1.0.0
+Pillow==10.0.0
+pyfiglet==0.8.post1
+pywin32==306
+tomli==2.0.1
+typing_extensions==4.7.1
+wcwidth==0.2.6
